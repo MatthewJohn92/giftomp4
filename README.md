@@ -41,7 +41,7 @@ Non è necessaria alcuna installazione! [Scarica](dist/giftomp4.exe) semplicemen
 Per supporto, domande o suggerimenti, si prega di aprire una issue nel repository GitHub del progetto. Contributi sotto forma di pull
 
 
-##Note Aggiuntive
+## Note Aggiuntive
 - Assicurati che i file GIF non siano danneggiati o corrotti prima di tentare la conversione.
 - La durata della conversione può variare in base alla dimensione e al numero dei file GIF.
 - Se incontri problemi con l'eseguibile, verifica di avere le dipendenze di sistema necessarie installate sul tuo computer.
